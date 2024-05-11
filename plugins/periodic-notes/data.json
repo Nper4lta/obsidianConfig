@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "Personal",
+    "template": "Templates/Journal",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "Templates/weeklyGoals.md",
+    "folder": "Goals",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "yyyy-MMM",
+    "template": "Templates/monthlyGoals.md",
+    "folder": "Goals",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "Templates/quartlyGoals.md",
+    "folder": "Goals",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "spotifyClientId": "7263d892785e47509a02b0e8342cc77b",
+  "spotifyClientSecret": "23b275d2c329497cab797337ca4b2e11",
+  "spotifyScopes": "user-read-currently-playing",
+  "spotifyState": "it-can-be-anything",
+  "templates": [
+    "| {{ song_name }} by {{ artists }} | {{ album }} | {{ album_release }} | {{ timestamp }} |"
+  ]
+}

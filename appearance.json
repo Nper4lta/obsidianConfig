@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "Sample Theme",
+  "showViewHeader": false,
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "dash",
+    "dashboard-read"
+  ]
+}
